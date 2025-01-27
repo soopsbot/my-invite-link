@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Event invite</title>
+        <style>
+        body {background-color: rgb(187, 237, 194);}
+        
+        h1 {color: rgb(255, 255, 255);}
+        
+        h2 {color: rgb(255, 243, 173);}
+        
+        #hopper {
+            width: 100px;
+            float: left;
+            margin-right: 6px;
+            margin-bottom: 6px;}
+            
+        </style>
+    </head>
+    <body>
+        
+        <h1> Transform Your<br>Words into Art!</h1>
+        <h2>A Typography & Handwriting<br> workshop</h2>
+        
+        <p>The details:</p>
+        <ul>
+            <li>Covent Garden
+            </li>
+            <li> 1st February 2025</li>
+            <li> No equipment needed, Just yourself:)
+          
+        </ul>
+        
+         <p>
+         <img id="hopper" src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/creatures/Hopper-Cool.png">
+       <div> In this <strong>60-minute workshop,</strong> discover the <br>hidden potential of your handwriting!<br> Learn simple yet powerful <br>typography techniques like thickening strokes,<br> mastering whitespace, and framing to create<br> inspiring, personalized artwork. <br>Whether it's your favorite quote or a sewwritten<br> mantra, turn it into stunning decor for your<br> home—without spending a fortune on <br>store-bought designs. No prior <br>experience required—<strong>just bring your creativity <br>and let’s make something beautiful!</strong>
+</div>
+
+        
+        </p>
+        
+    </body>
+</html>
